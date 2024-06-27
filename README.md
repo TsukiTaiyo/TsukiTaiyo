@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao meu pefil 💜🖤
 
-<!--
-**TsukiTaiyo/TsukiTaiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **_Maria Clara_**
 
-Here are some ideas to get you started:
+°Sou uma estudante do [Alura](https://alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+°Estou me desenvolvendo na linguagem do _JavaScript_.
+
+°utilizo esse espaço afim de ter um melhor organizamento e por meio dele compartilhar meus prejetos.
+
+### Voce pode entrar em contato comigo 📫
+
+**@Tsuki_yowai_mo**
+
+![](https://media1.tenor.com/m/1aOJTp7ltEMAAAAC/luffy-one-piece.gif)
